@@ -25,15 +25,20 @@ A simple, interactive, and visually appealing Todo App built with React and Tail
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/putluruaravindareddy/todo-app.git
+    git clone https://github.com/PutluruAravindaReddy/TodoList-App.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd todo-app
+    cd TodoList-App
     ```
 3. Install the dependencies:
     ```bash
     npm install
+    ```
+4. Install Tailwind CSS:
+    ```bash
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
     ```
 
 
